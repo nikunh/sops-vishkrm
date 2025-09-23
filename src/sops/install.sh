@@ -25,3 +25,4 @@ chmod +x /usr/local/bin/sops
 # Verify installation
 echo "SOPS installation complete:"
 sops --version
+# Auto-trigger build Tue Sep 23 20:03:20 BST 2025
