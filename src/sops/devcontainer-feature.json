@@ -1,6 +1,6 @@
 {
   "id": "sops",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "SOPS",
   "description": "Install Mozilla SOPS for managing secrets.",
   "documentationURL": "https://github.com/nikunh/sops-vishkrm",
