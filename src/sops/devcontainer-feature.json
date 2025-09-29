@@ -1,0 +1,14 @@
+{
+  "id": "sops",
+  "version": "0.0.1",
+  "name": "SOPS",
+  "description": "Install Mozilla SOPS for managing secrets.",
+  "documentationURL": "https://github.com/nikunh/sops-vishkrm",
+  "licenseURL": "https://github.com/nikunh/sops-vishkrm/blob/main/LICENSE",
+  "options": {},
+  "installsAfter": [
+    "ghcr.io/nikunh/001-dev-packages-vishkrm/001-dev-packages",
+    "ghcr.io/nikunh/002-user-setup-vishkrm/002-user-setup",
+    "ghcr.io/nikunh/003-zsh-setup-vishkrm/003-zsh-setup"
+  ]
+}
